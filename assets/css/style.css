@@ -200,17 +200,19 @@ h2.heading{
     position: relative;
 }
 
-
 .booking-bg {
     background-image: url(../images/about.jpg);
     background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: right 70px;
 }
 
 .about-bg {
-    background-image: url(../images/about.jpg);
+    background-image: url(../images/training.jpg);
     background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: left 100px;
 }
-
 
 .half-bg{
     position: absolute;
@@ -221,7 +223,6 @@ h2.heading{
 .half-bg.right{
     right: 0;
 }
-
 
 .btn-blue{
     border-radius: 0;
