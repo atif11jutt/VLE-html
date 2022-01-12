@@ -203,15 +203,15 @@ h2.heading{
 .booking-bg {
     background-image: url(../images/about.jpg);
     background-repeat: no-repeat;
-    background-size: auto 100%;
-    background-position: right 70px;
+    /* background-size: auto 100%;
+    background-position: right 70px; */
 }
 
 .about-bg {
     background-image: url(../images/training.jpg);
     background-repeat: no-repeat;
-    background-size: auto 100%;
-    background-position: left 100px;
+    /* background-size: auto 100%;
+    background-position: left 100px; */
 }
 
 .half-bg{
