@@ -82,7 +82,9 @@ header{
     background-image: url(../images/home.jpg);
     background-attachment: fixed;
     background-size: cover;
-    background-position: center center;
+    background-position: center 100%;
+    /* background-size: 100%;
+    background-position: center 100%; */
     min-height: 180vh;
     position: relative;
 }
@@ -203,15 +205,15 @@ h2.heading{
 .booking-bg {
     background-image: url(../images/about.jpg);
     background-repeat: no-repeat;
-    /* background-size: auto 100%;
-    background-position: right 70px; */
+    background-size: auto 100%;
+    background-position: right 70px;
 }
 
 .about-bg {
     background-image: url(../images/training.jpg);
     background-repeat: no-repeat;
-    /* background-size: auto 100%;
-    background-position: left 100px; */
+    background-size: auto 100%;
+    background-position: left 100px;
 }
 
 .half-bg{
